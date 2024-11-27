@@ -48,19 +48,19 @@ function App() {
 
   const roadmap = [
     {
-      quarter: 'Q1 2024',
+      quarter: 'Q1 2025',
       items: ['Official launch', 'Community growth', 'Initial token distribution']
     },
     {
-      quarter: 'Q2 2024',
+      quarter: 'Q2 2025',
       items: ['PawPals NFTs', 'PawDAO governance system']
     },
     {
-      quarter: 'Q3 2024',
+      quarter: 'Q3 2025',
       items: ['Pet influencer partnerships', 'PawMart launch']
     },
     {
-      quarter: 'Q4 2024',
+      quarter: 'Q4 2025',
       items: ['Global expansion', 'Staking features', 'Virtual pet show']
     }
   ];
@@ -124,7 +124,7 @@ function App() {
               <SocialLinks />
             </div>
             <p className="text-gray-400 text-sm">
-              © 2024 PawPenny. All rights reserved.
+              © 2025 PawPenny. All rights reserved.
             </p>
             <p className="text-gray-400 text-xs mt-4 max-w-2xl mx-auto">
               Disclaimer: PawPenny is a memecoin and a speculative investment. Always do your research and only invest what you can afford to lose.

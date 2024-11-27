@@ -10,7 +10,7 @@ export function SocialLinks() {
   ];
 
   return (
-    <div className="flex space-x-6">
+    <div className="flex space-x-4">
       {socials.map(({ icon: Icon, href, label }) => (
         <a
           key={label}
@@ -21,6 +21,14 @@ export function SocialLinks() {
           <Icon className="w-6 h-6" />
         </a>
       ))}
+      <a
+        href="https://pump.fun"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-purple-600 hover:text-purple-700 transition-colors"
+      >
+        Buy on Pump.fun
+      </a>
     </div>
   );
 }
