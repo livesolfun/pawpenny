@@ -22,7 +22,7 @@ export function SocialLinks() {
         </a>
       ))}
       <a
-        href="https://pump.fun"
+        href="https://pump.fun/coin/EEH9bwj9qDJvfvBunDqVMMXdbUXVMGuN5gcY9zGMpump"
         target="_blank"
         rel="noopener noreferrer"
         className="text-purple-600 hover:text-purple-700 transition-colors"
